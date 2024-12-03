@@ -6,7 +6,7 @@
 
 > [!NOTE]
 > Crear un proyecto
-> <code>comporser create-proyect laravel/laravel laravel-roles-permisos</code>
+> <code>composer create-proyect laravel/laravel laravel-roles-permisos</code>
 
 <p>Vamos a descargar ya un paquete que nos permite hacer los role y permisos</p>
 
