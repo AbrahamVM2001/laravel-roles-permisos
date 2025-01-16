@@ -24,7 +24,7 @@
 
 > [!NOTE]
 > Para optimizar la instalción del proyecto
-> <code>pho artisan optimize:clear</code>
+> <code>php artisan optimize:clear</code>
 
 <p>Ahora solo migramos</p>
 
